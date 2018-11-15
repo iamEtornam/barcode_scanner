@@ -4,8 +4,9 @@ Barcode Scanner is a simple Flutter Application to demonstrate how to implement 
 
 
 ## Art
-<img src="https://github.com/RegNex/barcode_scanner/blob/master/SCREENSHOTS/1.png" />
-<img src="https://github.com/RegNex/barcode_scanner/blob/master/SCREENSHOTS/2.png" />
+
+<img align="left" src="https://github.com/RegNex/barcode_scanner/blob/master/SCREENSHOTS/1.png" width="300" height="500"/>
+<img align="left" src="https://github.com/RegNex/barcode_scanner/blob/master/SCREENSHOTS/2.png" width="300" height="500"/>
 
 ## Getting Started
 
